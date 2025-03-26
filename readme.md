@@ -1,4 +1,4 @@
-# AWS Lambda Query Logs Duration
+# AWS Lambda - Consultar Logs durante Périodos de Tempo
 
 ## 👨‍💻 Projeto desenvolvido por: 
 [Rafael Torres Nantes](https://github.com/rafael-torres-nantes)
